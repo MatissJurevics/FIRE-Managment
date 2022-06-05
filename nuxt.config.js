@@ -1,14 +1,14 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'fire-manager',
+    title: 'FI/RE Dashboard',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'A managment tool that will help you become financially free sooner...' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
