@@ -4,7 +4,7 @@ export default {};
 
 <template>
   <nav>
-    <v-app-bar color="#CF1259" class="px-8" dark>
+    <v-app-bar color="#CF1259" class="px-8" dense dark>
       <v-app-bar-title class="text-no-wrap">FI/RE Dashboard</v-app-bar-title>
 
       <v-spacer></v-spacer>
