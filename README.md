@@ -1,5 +1,5 @@
 # FI/RE Manager
-A finace tracking tool I'm making to help with:
+A finance tracking tool I'm making to help with:
 - Managing your portfolio
 - checking your income & expenditure
 - Setting budgets
