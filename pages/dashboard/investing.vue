@@ -1,6 +1,6 @@
 <template>
     <main>
     <Dashbar />
-    <p>summary</p>
+    <p>investing</p>
     </main>
 </template>
