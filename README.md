@@ -5,6 +5,8 @@ A finace tracking tool I'm making to help with:
 - Setting budgets
 - Financial calculators (compound interest, mortage, etc.)
 
+![](./summary.png)
+
 Technologies used:
 - Vue.js
 - Nuxt
