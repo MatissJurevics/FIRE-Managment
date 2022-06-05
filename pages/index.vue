@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <main>
+  <Navbar />
+  <Counter />
+  </main>
 </template>
 
 <script lang="ts">
