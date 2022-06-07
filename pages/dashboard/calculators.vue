@@ -25,7 +25,7 @@
         >
           IDK
         </div>
-                <div
+        <div
           class="col-span-1 row-span-1 bg-gray-300 rounded-2xl flex justify-center items-center text-3xl"
         >
           IDK
